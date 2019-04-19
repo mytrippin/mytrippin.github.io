@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+}
+h1{
+	font-family: Futura;
+	font-size: 70px;
+	color: #04A777;
+	text-align: center;
+	padding-bottom: -20px;
+}
+h2{
+	font-family: CenturyGothic;
+	font-size: 20px;
+	color: #291720;
+	text-align: center; 
+}
+.cart{
+	position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 70px;
+    height: 70px;
+    padding: 20px;
+}
+.searchbar{
+	width: 700px;
+	height: 50px;
+	text-align: left;
+	font-size: 15px;
+	padding-left: 15px;
+}
+.menu{
+	border-spacing: 30px;	
+	margin: 0 auto;
+	padding-top: 50px;
+	font-family: CenturyGothic;
+}
+.searchTable{
+	margin: 0 auto;
+}
+.searchButton{
+	width: 50px;
+	height: 50px;
+}
