@@ -6,6 +6,7 @@ a{
 	text-decoration: none;
 }
 p{
+	font-family: CenturyGothic;
 	margin-left: 100px;
 	margin-right: 100px;
 	font-size: 20px;
@@ -19,10 +20,16 @@ h1{
 }
 h2{
 	font-family: CenturyGothic;
-	font-size: 20px;
+	font-size: 30px;
 	color: #04A777;
 	text-align: center; 
 	margin-top: 40px;
+}
+h3{
+	font-family: CenturyGothic;
+	font-size: 30px;
+	color: #D48415;
+	text-align: center;
 }
 .cart{
 	position: absolute;
@@ -51,6 +58,11 @@ h2{
 .searchButton{
 	width: 50px;
 	height: 50px;
+}
+.goals{
+	border-spacing: 30px;	
+	margin: 0 auto;
+	padding-top: 20px;
 }
 .videos{
 	border-spacing: 30px;	
