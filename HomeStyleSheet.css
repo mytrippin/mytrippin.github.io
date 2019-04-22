@@ -19,14 +19,14 @@ h1{
 	padding-bottom: -20px;
 }
 h2{
-	font-family: CenturyGothic;
+	font-family: CenturyGothic, Helvetica, Arial, sans-serif;
 	font-size: 30px;
 	color: #04A777;
 	text-align: center; 
 	margin-top: 40px;
 }
 h3{
-	font-family: CenturyGothic;
+	font-family: Helvetica;
 	font-size: 20px;
 	color: #D48415;
 	text-align: center;
