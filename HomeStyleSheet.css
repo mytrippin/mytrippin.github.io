@@ -6,7 +6,7 @@ a{
 	text-decoration: none;
 }
 p{
-	font-family: CenturyGothic;
+	font-family: Arial, Helvetica, sans-serif;
 	margin-left: 100px;
 	margin-right: 100px;
 	font-size: 20px;
@@ -19,14 +19,14 @@ h1{
 	padding-bottom: -20px;
 }
 h2{
-	font-family: CenturyGothic, Helvetica, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 30px;
 	color: #04A777;
 	text-align: center; 
 	margin-top: 40px;
 }
 h3{
-	font-family: Helvetica;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 20px;
 	color: #D48415;
 	text-align: center;
@@ -50,7 +50,7 @@ h3{
 	border-spacing: 30px;	
 	margin: 0 auto;
 	padding-top: 50px;
-	font-family: CenturyGothic;
+	font-family: Arial, Helvetica, sans-serif;
 }
 .searchTable{
 	margin: 0 auto;
